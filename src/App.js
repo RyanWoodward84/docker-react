@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed again and again without having to refresh!
+          Testing out changing git repository name
         </p>
         <a
           className="App-link"
